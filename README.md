@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm enthusiastic about technology and passionate a
 ## 🌐 Connect with Me
 
 - LinkedIn: [Karthik Shetty](www.linkedin.com/in/karthik-shetty-90502958)
-- Twitter: [karthik Shetty](@Terra_insight)
+- Twitter:  [karthik Shetty](@Terra_insight)
 - substack: [karthik Shetty](https://substack.com/@terrainsights)
 
 Feel free to explore my repositories and drop a star if you find something interesting! 😊
